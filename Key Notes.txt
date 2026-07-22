@@ -1,10 +1,11 @@
-PROJECT URL  : https://efmqrzhbywxakkoxdfnc.supabase.co
+API KEY : sb_publishable_mGwBgUeLSkHnUe8L-9ELbA_UHb2v4tX
 
-ANON PUBLIC KEY : sb_publishable_0oIVfsFlWknztr08KPYakA_kuleoMZa
+PROJECT URL : https://mrglgkhrtellruvxprpm.supabase.co
 
-pip install fastapi uvicorn supabase sentence-transformers
+API KEY NAME : vibe_mail
 
-http://127.0.0.1:8000/docs
+API KEY : re_25XxxtYp_C65dooktZzGA48PHW9DXST6V
 
+npm install -g expo-cli
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+pip install fastapi uvicorn supabase sentence-transformers resend python-dotenv
